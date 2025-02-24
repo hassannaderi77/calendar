@@ -1,0 +1,19 @@
+body {
+    background-color: #121212;
+    color: white;
+  }
+  .calendar-container {
+    background: #1e1e1e;
+    border-radius: 12px;
+  }
+  .fc .fc-toolbar-title {
+    color: white;
+  }
+
+  .fc-toolbar-title {
+    color: white;
+  }
+
+  a {
+    text-decoration: none;
+  }
